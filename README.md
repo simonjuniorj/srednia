@@ -1,5 +1,23 @@
 # Średnia
 
+(PL)
+To była moja pierwsza stworzona aplikacja do obliczania średniej arytmetycznej.
+> Może zastanawiasz się, jaka była Twoja średnia arytmetyczna na koniec roku.
+> A może nawet nie wiesz, jak to obliczyć.
+**Ta prosta aplikacja była rozwiązaniem!**
+
+**Jakie funkcje oferuje?**
+- *Automatyczne aktualizacje* (Zepsute po ostatniej aktualizacji)
+- *Obliczanie średniej arytmetycznej na podstawie liczby przedmiotów, które faktycznie masz*
+- *Personalizacja* (kolor tła/tekstu, śledzenie każdej aplikacji)
+
+**Wsparcie**
+Jeśli masz problem z jakąś częścią aplikacji, śmiało zgłoś problem!
+**Pamiętaj, ta aplikacja jest wciąż w fazie beta, nie jestem profesjonalnym programistą, więc śmiało możesz ją rozwidlić, jeśli jej potrzebujesz!*
+**Oczekuj wielu błędów i brakujących funkcji. Ta aplikacja jest przestarzała, ale może stanowić podstawę dla znacznie lepszej wersji!*
+
+**TA APLIKACJA JEST WYCOFANA, NIE BĘDĘ UDZIELAĆ ŻADNEGO WSPARCIA W PRZYSZŁOŚCI!**
+
 (EN)
 This was my first ever made application to calculate arithmetic mean
 > Maybe you wonder, or thinking, what was your arithmetic mean for end of the year
