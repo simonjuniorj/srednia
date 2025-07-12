@@ -11,6 +11,7 @@ To była moja pierwsza stworzona aplikacja do obliczania średniej arytmetycznej
 - *Obliczanie średniej arytmetycznej na podstawie liczby przedmiotów, które faktycznie masz*
 - *Personalizacja* (kolor tła/tekstu, śledzenie każdej aplikacji)
 
+
 **Wsparcie**
 Jeśli masz problem z jakąś częścią aplikacji, śmiało zgłoś problem!
 **Pamiętaj, ta aplikacja jest wciąż w fazie beta, nie jestem profesjonalnym programistą, więc śmiało możesz ją rozwidlić, jeśli jej potrzebujesz!*
@@ -28,6 +29,7 @@ This was my first ever made application to calculate arithmetic mean
 - *Automatic updates* (Broken after last update)
 - *Calc arithmetic mean, based on how many subjects you actually have*
 - *Customisation* (background/text color, stay on top of every app)
+
 
 **Support**
 If you have an issue with some part of the application, feel free to open an issue ticket!
