@@ -1,10 +1,11 @@
 # Średnia
 
 (PL)
-To była moja pierwsza stworzona aplikacja do obliczania średniej arytmetycznej.
+To moja pierwsza stworzona aplikacja do obliczania średniej arytmetycznej napisana w C# przy użyciu Visual Studio.
 > Może zastanawiasz się, jaka była Twoja średnia arytmetyczna na koniec roku.
 > A może nawet nie wiesz, jak to obliczyć.
 **Ta prosta aplikacja była rozwiązaniem!**
+
 
 **Jakie funkcje oferuje?**
 - *Automatyczne aktualizacje* (Zepsute po ostatniej aktualizacji)
@@ -20,10 +21,11 @@ Jeśli masz problem z jakąś częścią aplikacji, śmiało zgłoś problem!
 **TA APLIKACJA JEST WYCOFANA, NIE BĘDĘ UDZIELAĆ ŻADNEGO WSPARCIA W PRZYSZŁOŚCI!**
 
 (EN)
-This was my first ever made application to calculate arithmetic mean
+This was my first ever made application to calculate arithmetic mean, writed in Visual Studio using C#
 > Maybe you wonder, or thinking, what was your arithmetic mean for end of the year
 > Or maybe you don't even know, how to calc that thing
 **This simple app was a solution!**
+
 
 **What features this offers?**
 - *Automatic updates* (Broken after last update)
