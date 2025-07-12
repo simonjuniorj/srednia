@@ -20,7 +20,7 @@ Jeśli masz problem z jakąś częścią aplikacji, śmiało zgłoś problem!
 
 **TA APLIKACJA JEST WYCOFANA, NIE BĘDĘ UDZIELAĆ ŻADNEGO WSPARCIA W PRZYSZŁOŚCI!**
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 (EN)
 This was my first ever made application to calculate arithmetic mean, writed in Visual Studio using C#
